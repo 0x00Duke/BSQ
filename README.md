@@ -14,4 +14,9 @@ You program must print the board, with some “.” replaced by “x” to repre
 If ever there are several solutions, you have to represent only the highest square. If theyare still several solutions, choose the square to the left.
 
 You can try this project using this commands
+
         "make" and "./bsq maps/[the_map_you_want]".
+        
+Find below the complete subject.
+[B-CPE-110_BSQ.pdf](https://github.com/lncdss/BSQ/files/6338552/B-CPE-110_BSQ.pdf)
+
